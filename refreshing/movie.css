@@ -1,0 +1,83 @@
+.background { 
+	background:linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.9)), url("spiderman2.png") 0% 0%/cover no-repeat;
+	background-repeat: repeat;
+	}
+	
+	.div2 { position: relative;
+			Text-align: right;
+			Color: grey;
+			padding-top: 50px;
+			padding-right: 150px;
+			text-justify: left;
+
+			Margin: 0px 30px;
+			font-size: 30px;
+
+			
+	}
+	
+	.topnav {
+		overflow: hidden;
+		background-color: #333;
+	}
+	.topnav a{
+		float: left;
+		color: #f2f2f2;
+		 text-align: right;
+	    Color: grey; 
+	    text-align: center;
+	     padding: 18px 16px;
+	     text-decoration: none;
+	     font: 20px;
+       }
+	.topnav a:hover
+	{background-color: red;
+     color:	white;
+	}
+		.topnav a.active {
+  background-color: red;
+  color: white;
+}
+	
+	.button {
+			Background-color: red;
+			border: none;
+			color: black;
+			padding: 15px 35px;
+			display: inline-block;
+			font-size: 20px;
+			margin:5px 4px;
+			cursor: pointer;
+			-webkit-transition-duration: 0.5s;
+			transition-duration: 0.5s;
+	}
+
+     .button:hover span {
+							padding-right: 25px;
+						}
+	.button:hover span:after
+					{
+			opacity: 1;
+			right: 5;
+		}
+
+			
+	{ 
+	  Background-color: Black;
+	 
+	  border-width: 700px 300px 300px 300px;
+	  color:white;
+	  padding: 35px 20px 35px 20px;
+	  text-align: left;
+	  }
+	  
+	  div.image{
+		  content: url("spiderman2.png");
+		  float: left;
+		  width: 300px;
+		  height:400px;
+		
+		  
+	  }
+	  
+		  
